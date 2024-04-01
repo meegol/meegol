@@ -1,12 +1,5 @@
 <img src="https://i.imgur.com/2YWFJmi.jpeg" class="center">
 
-  .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">Pinoy ako, pinoy tayo. Kapag naaalala ko ang mga araw na magkasama tayong dalawa Ngiti at luha sa aking mga mata ganun na pala tayo dati kasaya Yung tipong kapag tayo'y nagkatitigan Magngingitian para bang nahihibang Mag-iingay kahit sobrang tahimik ng kapaligiran Kahit may nagrereklamo na'y wala tayong pakialam.</h3>
 
