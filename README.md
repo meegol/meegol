@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/2YWFJmi.jpeg" class="center>
+<img src="https://i.imgur.com/2YWFJmi.jpeg" class="center">
 
 <style>
   .center {
