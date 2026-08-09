@@ -1,8 +1,8 @@
 # meegol
 
-`average gruvbox enjoyer.` 
+`average gruvbox enjoyer.`
 
-hacking on systems, rust, backend microservices, and full-stack web applications.
+hacking on systems, quant backtesters, rust engines, and full-stack web apps.
 
 ---
 
@@ -12,34 +12,25 @@ hacking on systems, rust, backend microservices, and full-stack web applications
 ![Rust](https://img.shields.io/badge/Rust-282828?style=flat-square&logo=rust&logoColor=fe8019)
 ![TypeScript](https://img.shields.io/badge/TypeScript-282828?style=flat-square&logo=typescript&logoColor=83a598)
 ![JavaScript](https://img.shields.io/badge/JavaScript-282828?style=flat-square&logo=javascript&logoColor=fabd2f)
-![Java](https://img.shields.io/badge/Java-282828?style=flat-square&logo=openjdk&logoColor=fb4934)
 ![Python](https://img.shields.io/badge/Python-282828?style=flat-square&logo=python&logoColor=b8bb26)
+![Java](https://img.shields.io/badge/Java-282828?style=flat-square&logo=openjdk&logoColor=fb4934)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282828?style=flat-square&logo=postgresql&logoColor=83a598)
 ![Shell](https://img.shields.io/badge/Shell-282828?style=flat-square&logo=gnu-bash&logoColor=8ec07c)
 
 #### Tools & OS
 ![Neovim](https://img.shields.io/badge/Neovim-282828?style=flat-square&logo=neovim&logoColor=b8bb26)
-![Nix](https://img.shields.io/badge/Nix-282828?style=flat-square&logo=nixos&logoColor=83a598)
 ![Linux](https://img.shields.io/badge/Linux-282828?style=flat-square&logo=linux&logoColor=8ec07c)
 
 ---
 
-### projects
+### featured projects
 
-#### 🦀 Systems & CLI
-* **[GruvTetris](https://github.com/meegol/GruvTetris)**: Gruvbox-themed Tetris clone built in Rust.
-* **[rust-doom-clone](https://github.com/meegol/rust-doom-clone)**: Raycaster-based Doom style graphics engine built in Rust.
-* **[gruvfetch](https://github.com/meegol/gruvfetch)**: System info display tool written in Rust.
-* **[Gruvodoro](https://github.com/meegol/Gruvodoro)**: Terminal Pomodoro timer in Rust.
-
-#### ☕ Enterprise & Back-end
-* **[echo-services](https://github.com/echo-news-project/echo-services)**: Microservice backend built in Java/Spring Boot for news aggregation.
-* **[Smile-Detector-Model](https://github.com/meegol/Smile-Detector-Model)**: Computer vision model trained in Python for webcam smile detection.
-
-#### 🌐 Front-end & Web Apps
-* **[hiyoshi-solutions-web-application](https://github.com/Average-Joe-Innovation/hiyoshi-solutions-web-application)**: Client services web portal (TypeScript).
-* **[GruvTrack](https://github.com/meegol/GruvTrack)**: Custom budget and task tracker web app.
-* **[mekenis-kainan](https://github.com/meegol/mekenis-kainan)**: Sizzling eatery single-page site and interactive catering calculator.
+* **[meegol-backtest](https://github.com/meegol/meegol-backtest)** — ICT Kill Zone strategy backtester (NQ/ES/MNQ/MES futures) with 4H bias & displacement filtering (+60.6R).
+* **[jarvis](https://github.com/meegol/jarvis)** — Autonomous personal AI assistant for tasks, calendar, and spending management.
+* **[skillsync](https://github.com/meegol/skillsync)** — AI resume parser and job matching web platform.
+* **[rust-doom-clone](https://github.com/meegol/rust-doom-clone)** — 3D retro raycaster engine written from scratch in Rust.
+* **[big-eds-laundry](https://github.com/meegol/big-eds-laundry)** — Commercial laundromat booking and POS management app.
+* **[GruvTetris](https://github.com/meegol/GruvTetris)** — Retro Gruvbox-themed Tetris game engine in Rust.
 
 ---
 
