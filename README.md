@@ -27,7 +27,7 @@ building full-stack SaaS, quant backtesters, games and rust engines.
 
 | project | what it is | stack |
 | --- | --- | --- |
-| **[chalk](https://github.com/meegol/chalk)** | Multi-tenant SaaS for strength gyms: class booking that can't oversell, auto-promoting waitlists, Stripe Billing + Connect payments, QR check-in. | Next.js 16 · Postgres · Drizzle · Stripe |
+| **[chalk](https://github.com/meegol/chalk)** | Multi-tenant SaaS for strength gyms: class booking that can't oversell, auto-promoting waitlists, Stripe Billing + Connect payments, QR check-in. · [live demo](https://chalk-box.vercel.app) | Next.js 16 · Postgres · Drizzle · Stripe |
 | **[relay-helpdesk](https://github.com/meegol/relay-helpdesk)** | Helpdesk ticketing with live chat, screenshot sharing and separate client, support and admin panels. | Spring Boot · React · WebSocket |
 | **[apex-killzone-engine](https://github.com/meegol/apex-killzone-engine)** | ICT Kill Zone backtester for NQ/ES/MNQ/MES futures with 4H bias and displacement filters. · [report](https://meegol.github.io/apex-killzone-engine/) | Python |
 | **[ledger](https://github.com/meegol/ledger)** | Pixel-art merchant sim: trade on rumours, haggle with vampires, pay the rent. · [play](https://ledger-merchant.vercel.app) | Godot 4 |
